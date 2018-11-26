@@ -1,0 +1,35 @@
+6.1221 Ergeben z.B. zwei Sätze "p" und "q" in der Verbindung "p ⊃ q" eine
+Tautologie, so ist klar, daß q aus p folgt.
+
+Daß z.B. "q" aus "p ⊃ q . p" folgt, ersehen wir aus diesen beiden Sätzen
+selbst, aber wir können es auch so zeigen, indem wir sie zu "p ⊃ q . p : ⊃ : q"
+verbinden und nun zeigen, daß dies eine Tautologie ist.
+
+6.1222 Dies wirft ein Licht auf die Frage, warum die logischen Sätze nicht
+durch die Erfahrung bestätigt werden können, ebensowenig, wie sie durch die
+Erfahrung widerlegt werden können. Nicht nur muß ein Satz der Logik durch keine
+mögliche Erfahrung widerlegt werden können, sonder er darf auch nicht durch
+eine solche bestätigt werden können.
+
+6.1223 Nun wird klar, warum man oft fühlte, als wären die "logischen
+Wahrheiten" von uns zu "/fordern/": Wir können sie nämlich insofern fordern, als
+wir eine genügende Notation fordern können.
+
+6.1224 Es wird jetzt auch klar, warum die Logik die Lehre von den Formen und
+vom Schließen genannt wurde.
+
+6.1231 Das Anzeichen des logischen Satzes ist /nicht/ die Allgemeingültigkeit.
+
+Allgemein sein, heißt ja nur: zufälligerweise für alle Dinge gelten. Ein
+unverallgemeinerter Satz kann ja ebensowohl tautologisch sein, als ein
+verallgemeinerter.
+
+6.1232 Die logische Allgemeingültigkeit könnte man wesentlich nennen, im
+Gegensatz zu jener zufälligen, etwa des Satzes "alle Menschen sind sterblich".
+Sätze, wie Russells "Axiom of reducibility" sind nicht logische Sätze, und dies
+erklärt unser Gefühl: daß sie, wenn wahr, so doch nur durch einen günstigen
+Zufall wahr sein können.
+
+6.1233 Es läßt sich eine Welt denken, in der das Axiom of reducibility nicht
+gilt. Es ist aber klar, daß die Logik nichts mit der Frage zu schaffen hat, ob
+unsere Welt wirklich so ist oder nicht.
